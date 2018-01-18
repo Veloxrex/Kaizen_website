@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4970a82-b195-4e96-8b4d-439228e6adb7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2090">
+              <caret line="176" column="66" lean-forward="false" selection-start-line="170" selection-start-column="60" selection-end-line="176" selection-end-column="66" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#aside#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1507962916222" expanded="false" signature="34057:35296" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+                <marker date="1507962916222" expanded="true" signature="34075:34322" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+                <marker date="1507962916222" expanded="true" signature="34386:34646" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+                <marker date="1507962916222" expanded="true" signature="34706:35141" ph="{&quot;trackOutbound&quot;: true...}" />
+                <marker date="1507962916222" expanded="true" signature="35159:35290" ph="{&quot;uid&quot;: 0...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SSProject.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SSProject.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="344">
+              <caret line="122" column="112" lean-forward="false" selection-start-line="116" selection-start-column="64" selection-end-line="122" selection-end-column="112" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#aside#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#h1#0;n#span#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#12481#12486#0" expanded="true" />
+                <element signature="e#16393#16399#0" expanded="true" />
+                <element signature="e#25684#25690#0" expanded="true" />
+                <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1508215060153" expanded="false" signature="36186:37425" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+                <marker date="1508215060153" expanded="true" signature="36204:36451" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+                <marker date="1508215060153" expanded="true" signature="36515:36775" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+                <marker date="1508215060153" expanded="true" signature="36835:37270" ph="{&quot;trackOutbound&quot;: true...}" />
+                <marker date="1508215060153" expanded="true" signature="37288:37419" ph="{&quot;uid&quot;: 0...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style3.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/default/files/css/style3.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148561">
+              <caret line="7819" column="0" lean-forward="false" selection-start-line="7819" selection-start-column="0" selection-end-line="7819" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="318" column="41" lean-forward="false" selection-start-line="318" selection-start-column="12" selection-end-line="318" selection-end-column="41" />
+              <folding>
+                <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <marker date="1507959759781" expanded="true" signature="26398:27529" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+                <marker date="1507959759781" expanded="true" signature="26412:26627" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+                <marker date="1507959759781" expanded="true" signature="26683:26927" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+                <marker date="1507959759781" expanded="true" signature="26979:27394" ph="{&quot;trackOutbound&quot;: true...}" />
+                <marker date="1507959759781" expanded="true" signature="27408:27527" ph="{&quot;uid&quot;: 0...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js1.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sites/default/files/js/js1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281390">
+              <caret line="14812" column="39" lean-forward="false" selection-start-line="14812" selection-start-column="39" selection-end-line="14812" selection-end-column="39" />
+              <folding>
+                <marker date="1507962657311" expanded="true" signature="190720:190726" ph=" " />
+                <marker date="1507962657311" expanded="true" signature="190926:190932" ph=" " />
+                <marker date="1507962657311" expanded="true" signature="228773:228779" ph=" " />
+                <marker date="1507962657311" expanded="true" signature="229246:229252" ph=" " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Contact</find>
+      <find>hive</find>
+      <find>i.Dispatcher.on(&quot;linkClicked&quot;, f), u.init(), i.Pjax.init(), i.Prefetch.init(), c.on(&quot;CCPageLoad.ccTransitions&quot;, function (t, e) {</find>
+      <find>group--ìno</find>
+      <find>body</find>
+      <find>explo</find>
+      <find>font</find>
+      <find>iphone</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sites/default/files/js/js1.js" />
+        <option value="$PROJECT_DIR$/Home.html" />
+        <option value="$PROJECT_DIR$/../special/Hung ngu 2/pd-pro-angular.creative-tim.com/main.79b974d9ea8d777f5879.bundle.js" />
+        <option value="$PROJECT_DIR$/sites/default/files/css/style3.css" />
+        <option value="$PROJECT_DIR$/SSProject.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Kaizen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaizen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Kaizen" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Kaizen" type="462c0819:PsiDirectoryNode" />
+              <item name="porfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="body&#9;null&#9;null" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Minh Tri\Desktop\Kaizen" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4970a82-b195-4e96-8b4d-439228e6adb7" name="Default" comment="" />
+      <created>1507094489449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507094489449</updated>
+      <workItem from="1507094491252" duration="971000" />
+      <workItem from="1507191102451" duration="573000" />
+      <workItem from="1507959490928" duration="6356000" />
+      <workItem from="1508203379902" duration="3897000" />
+      <workItem from="1508208279442" duration="148000" />
+      <workItem from="1508214843718" duration="286000" />
+      <workItem from="1508481816389" duration="121000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12352000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12648809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.07219662" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3344">
+          <caret line="176" column="66" lean-forward="false" selection-start-line="170" selection-start-column="60" selection-end-line="176" selection-end-column="66" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507962916222" expanded="false" signature="34057:35296" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34075:34322" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34386:34646" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34706:35141" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507962916222" expanded="true" signature="35159:35290" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/css/style3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148561">
+          <caret line="7819" column="0" lean-forward="false" selection-start-line="7819" selection-start-column="0" selection-end-line="7819" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6042">
+          <caret line="318" column="41" lean-forward="false" selection-start-line="318" selection-start-column="12" selection-end-line="318" selection-end-column="41" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507959759781" expanded="true" signature="26398:27529" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26412:26627" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26683:26927" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26979:27394" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507959759781" expanded="true" signature="27408:27527" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/js/js1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281428">
+          <caret line="14812" column="39" lean-forward="false" selection-start-line="14812" selection-start-column="39" selection-end-line="14812" selection-end-column="39" />
+          <folding>
+            <marker date="1507962657311" expanded="true" signature="190720:190726" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="190926:190932" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="228773:228779" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="229246:229252" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSProject.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2318">
+          <caret line="122" column="112" lean-forward="false" selection-start-line="116" selection-start-column="64" selection-end-line="122" selection-end-column="112" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h1#0;n#span#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#12481#12486#0" expanded="true" />
+            <element signature="e#16393#16399#0" expanded="true" />
+            <element signature="e#25684#25690#0" expanded="true" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1508215060153" expanded="false" signature="36186:37425" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36204:36451" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36515:36775" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36835:37270" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1508215060153" expanded="true" signature="37288:37419" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="176" column="66" lean-forward="false" selection-start-line="170" selection-start-column="60" selection-end-line="176" selection-end-column="66" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507962916222" expanded="false" signature="34057:35296" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34075:34322" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34386:34646" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34706:35141" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507962916222" expanded="true" signature="35159:35290" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/css/style3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148561">
+          <caret line="7819" column="0" lean-forward="false" selection-start-line="7819" selection-start-column="0" selection-end-line="7819" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6042">
+          <caret line="318" column="41" lean-forward="false" selection-start-line="318" selection-start-column="12" selection-end-line="318" selection-end-column="41" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507959759781" expanded="true" signature="26398:27529" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26412:26627" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26683:26927" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26979:27394" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507959759781" expanded="true" signature="27408:27527" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/js/js1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281428">
+          <caret line="14812" column="39" lean-forward="false" selection-start-line="14812" selection-start-column="39" selection-end-line="14812" selection-end-column="39" />
+          <folding>
+            <marker date="1507962657311" expanded="true" signature="190720:190726" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="190926:190932" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="228773:228779" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="229246:229252" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSProject.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="116" column="38" lean-forward="false" selection-start-line="116" selection-start-column="38" selection-end-line="116" selection-end-column="38" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h1#0;n#span#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#12481#12486#0" expanded="true" />
+            <element signature="e#16393#16399#0" expanded="true" />
+            <element signature="e#25684#25690#0" expanded="true" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1508215060153" expanded="false" signature="36186:37425" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36204:36451" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36515:36775" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36835:37270" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1508215060153" expanded="true" signature="37288:37419" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="176" column="66" lean-forward="true" selection-start-line="170" selection-start-column="60" selection-end-line="176" selection-end-column="66" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507962916222" expanded="false" signature="34057:35296" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34075:34322" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34386:34646" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34706:35141" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507962916222" expanded="true" signature="35159:35290" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/css/style3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148561">
+          <caret line="7819" column="0" lean-forward="true" selection-start-line="7819" selection-start-column="0" selection-end-line="7819" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="318" column="41" lean-forward="false" selection-start-line="318" selection-start-column="12" selection-end-line="318" selection-end-column="41" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507959759781" expanded="true" signature="26398:27529" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26412:26627" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26683:26927" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26979:27394" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507959759781" expanded="true" signature="27408:27527" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/js/js1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281428">
+          <caret line="14812" column="39" lean-forward="false" selection-start-line="14812" selection-start-column="39" selection-end-line="14812" selection-end-column="39" />
+          <folding>
+            <marker date="1507962657311" expanded="true" signature="190720:190726" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="190926:190932" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="228773:228779" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="229246:229252" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSProject.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h1#0;n#span#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#12481#12486#0" expanded="true" />
+            <element signature="e#16393#16399#0" expanded="true" />
+            <element signature="e#25684#25690#0" expanded="true" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1508215060153" expanded="false" signature="36186:37425" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36204:36451" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36515:36775" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36835:37270" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1508215060153" expanded="true" signature="37288:37419" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8816">
+          <caret line="464" column="51" lean-forward="true" selection-start-line="464" selection-start-column="16" selection-end-line="464" selection-end-column="51" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507962916222" expanded="false" signature="34057:35296" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34075:34322" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34386:34646" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34706:35141" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507962916222" expanded="true" signature="35159:35290" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6042">
+          <caret line="318" column="41" lean-forward="false" selection-start-line="318" selection-start-column="12" selection-end-line="318" selection-end-column="41" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507959759781" expanded="true" signature="26398:27529" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26412:26627" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26683:26927" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26979:27394" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507959759781" expanded="true" signature="27408:27527" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/js/js1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234460">
+          <caret line="12340" column="43" lean-forward="false" selection-start-line="12340" selection-start-column="43" selection-end-line="12340" selection-end-column="43" />
+          <folding>
+            <marker date="1507962657311" expanded="true" signature="190720:190726" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="190926:190932" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="228773:228779" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="229246:229252" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSProject.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7448">
+          <caret line="392" column="0" lean-forward="false" selection-start-line="392" selection-start-column="0" selection-end-line="392" selection-end-column="0" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h1#0;n#span#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#12481#12486#0" expanded="true" />
+            <element signature="e#16393#16399#0" expanded="true" />
+            <element signature="e#25684#25690#0" expanded="true" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1508215060153" expanded="false" signature="36186:37425" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36204:36451" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36515:36775" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36835:37270" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1508215060153" expanded="true" signature="37288:37419" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../special/Hung ngu 2/pd-pro-angular.creative-tim.com/main.79b974d9ea8d777f5879.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="56" column="50" lean-forward="true" selection-start-line="56" selection-start-column="50" selection-end-line="56" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../special/Hung ngu 2/pd-pro-angular.creative-tim.com/vendor.80d8580fa7fd3bac2fce.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76257">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="318" column="41" lean-forward="false" selection-start-line="318" selection-start-column="12" selection-end-line="318" selection-end-column="41" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507959759781" expanded="true" signature="26398:27529" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26412:26627" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26683:26927" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507959759781" expanded="true" signature="26979:27394" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507959759781" expanded="true" signature="27408:27527" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/js/js1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281390">
+          <caret line="14812" column="39" lean-forward="false" selection-start-line="14812" selection-start-column="39" selection-end-line="14812" selection-end-column="39" />
+          <folding>
+            <marker date="1507962657311" expanded="true" signature="190720:190726" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="190926:190932" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="228773:228779" ph=" " />
+            <marker date="1507962657311" expanded="true" signature="229246:229252" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sites/default/files/css/style3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148561">
+          <caret line="7819" column="0" lean-forward="false" selection-start-line="7819" selection-start-column="0" selection-end-line="7819" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="176" column="66" lean-forward="false" selection-start-line="170" selection-start-column="60" selection-end-line="176" selection-end-column="66" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1507962916222" expanded="false" signature="34057:35296" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34075:34322" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34386:34646" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1507962916222" expanded="true" signature="34706:35141" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1507962916222" expanded="true" signature="35159:35290" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SSProject.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="122" column="112" lean-forward="false" selection-start-line="116" selection-start-column="64" selection-end-line="122" selection-end-column="112" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#aside#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h1#0;n#span#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#header#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h3#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#article#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#12481#12486#0" expanded="true" />
+            <element signature="e#16393#16399#0" expanded="true" />
+            <element signature="e#25684#25690#0" expanded="true" />
+            <element signature="n#aside#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <marker date="1508215060153" expanded="false" signature="36186:37425" ph="{&quot;pluralDelimiter&quot;: &quot;\u0003&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36204:36451" ph="{&quot;baseUrl&quot;: &quot;\/&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36515:36775" ph="{&quot;libraries&quot;: &quot;cc\/global-styling,classy\/base,classy\/messages,classy\/node,core\/html5shiv,core\/normalize,google_analytics\/google_analytics,system\/base,views\/views.module&quot;...}" />
+            <marker date="1508215060153" expanded="true" signature="36835:37270" ph="{&quot;trackOutbound&quot;: true...}" />
+            <marker date="1508215060153" expanded="true" signature="37288:37419" ph="{&quot;uid&quot;: 0...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
